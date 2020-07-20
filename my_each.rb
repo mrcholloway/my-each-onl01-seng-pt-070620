@@ -10,5 +10,5 @@ end
 arr = [1,2,3,4]
 
 my_each(arr) do |i|
-puts "#{i}"
+  puts "#{i}"
 end 
